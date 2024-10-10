@@ -6,10 +6,10 @@ export default defineConfig({
   title: "CosmosPay",
   description: "Connecting web2 to the interchain",
   sitemap: { hostname: "https://docs.cosmos-pay.com/" },
-  head: [['link', { rel: 'icon', href: '/CosmosPay-Docs/logo/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/CosmosPay-Docs/public/logo/favicon.ico' }]],
   themeConfig: {
     siteTitle: "CosmosPay Docs",
-    logo: "/assets/logo/ID-logo.svg",
+    logo: "/logo/ID-logo.svg",
     search: { provider: "local" },
 
     nav: [
