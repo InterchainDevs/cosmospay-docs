@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: "/docs/",
+  base: "/",
   rewrites: { 'source/:page': 'destination/:page' },
   title: "CosmosPay",
   description: "Connecting web2 to the interchain",
