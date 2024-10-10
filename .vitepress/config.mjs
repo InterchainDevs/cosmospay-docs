@@ -9,7 +9,6 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/CosmosPay-Docs/public/logo/favicon.ico' }]],
   themeConfig: {
     siteTitle: "CosmosPay Docs",
-    logo: "/logo/ID-logo.svg",
     search: { provider: "local" },
 
     nav: [
