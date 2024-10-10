@@ -6,7 +6,7 @@ export default defineConfig({
   title: "CosmosPay",
   description: "Connecting web2 to the interchain",
   sitemap: { hostname: "https://docs.cosmos-pay.com/" },
-  head: [['link', { rel: 'icon', href: '/CosmosPay-Docs/public/logo/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/logo/favicon.ico' }]],
   themeConfig: {
     siteTitle: "CosmosPay Docs",
     search: { provider: "local" },
